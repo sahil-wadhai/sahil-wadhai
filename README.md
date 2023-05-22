@@ -18,7 +18,7 @@ who loves reading articles (on software development,  Productivity and practices
 
 🧠 I'm currently learning **FastApi**
 
-👯‍♀️ I'm looking to collaborate on **Web development projects**
+👯‍♀️ I'm looking to collaborate on **Web         development projects**
 
 🤔 I'm looking for help with **API development**
 
@@ -31,7 +31,6 @@ who loves reading articles (on software development,  Productivity and practices
 
 ⚡️ Fun fact **"I am full time learner"**
 
-
 ## 🔗 Connect with me :
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
@@ -39,9 +38,36 @@ who loves reading articles (on software development,  Productivity and practices
 
 
 
+
+
 ## 🛠 Skills
 
+### Frontend :
 
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+
+### Backend :
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+![FastApi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools :
+![VS code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## Stats
 ![img](https://github-readme-stats.vercel.app/api/top-langs?username=sahil-wadhai&show_icons=true&locale=en&layout=compact)
 
 ![img](https://github-readme-stats.vercel.app/api?username=sahil-wadhai&show_icons=true&locale=en)
