@@ -1,5 +1,5 @@
 
-![Banner](./github-header-image.png)
+![](https://github.com/sahil-wadhai/sahil-wadhai/blob/main/github-header-image.png)
 # Hi, I'm Sahil! 👋
 
 ![Header](https://komarev.com/ghpvc/?username=sahil-wadhai&label=Profile%20views&color=0e75b6&style=flat)
