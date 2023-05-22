@@ -42,6 +42,11 @@ who loves reading articles (on software development,  Productivity and practices
 
 ## 🛠 Skills
 
+### DSA :
+
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Java_Collections](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+
 ### Frontend :
 
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -62,14 +67,15 @@ who loves reading articles (on software development,  Productivity and practices
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools :
+### Other :
 ![VS code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ## Stats
 ![img](https://github-readme-stats.vercel.app/api/top-langs?username=sahil-wadhai&show_icons=true&locale=en&layout=compact)
-
 ![img](https://github-readme-stats.vercel.app/api?username=sahil-wadhai&show_icons=true&locale=en)
-
 ![Logo](https://github-readme-streak-stats.herokuapp.com/?user=sahil-wadhai&)
+
+
