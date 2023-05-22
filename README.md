@@ -1,37 +1,51 @@
-# Full Stack Developer
 
-## About Me
-I am a passionate Full Stack Developer with expertise in building scalable web applications. I have a strong foundation in both front-end and back-end development, allowing me to deliver end-to-end solutions.
+![Header](./[Your header image])
+# Hi, I'm Sahil! 👋
 
-## Skills
-- Front-End Development: HTML5, CSS3, JavaScript, React, Angular
-- Back-End Development: Node.js, Express, Python, Django
-- Database Technologies: SQL, MongoDB, MySQL, PostgreSQL
-- Version Control: Git, GitHub
-- Deployment: AWS, Heroku, Docker
-- Testing: Jest, Mocha, Chai
-- Agile Development: Scrum, Kanban
-- Other Tools: VS Code, Postman, Slack
+![Header](https://komarev.com/ghpvc/?username=sahil-wadhai&label=Profile%20views&color=0e75b6&style=flat)
 
-## Projects
-### Project 1: [Project Name](link-to-project)
-Description: Briefly describe the project and its main features. Include technologies used and your role in the project.
+I'm a student with a passion for software development. \
+I'm always looking for new ways to learn and grow, and I'm excited to share my work with the world.
 
-### Project 2: [Project Name](link-to-project)
-Description: Briefly describe the project and its main features. Include technologies used and your role in the project.
 
-## Open Source Contributions
-- [Contribution 1](link-to-contribution): Describe your contribution and its impact on the open-source project.
-- [Contribution 2](link-to-contribution): Describe your contribution and its impact on the open-source project.
+## 🚀 About Me
+I am a third year B.tech student at GHRCE Nagpur , India. \
+Apart from that I am a full-stack developer
+who loves reading articles (on software development,  Productivity and practices) and contributing to open source.
 
-## Blog Articles
-- [Article 1](link-to-article): Briefly summarize the article and its main takeaways.
-- [Article 2](link-to-article): Briefly summarize the article and its main takeaways.
+##
+👩‍💻 I'm currently working on *[BlogVilla](https://github.com/sahil-wadhai/BlogVilla/)*
 
-## Contact Me
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+🧠 I'm currently learning **FastApi**
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or project ideas. I'm always excited to connect with fellow developers and explore new possibilities.
+👯‍♀️ I'm looking to collaborate on **Web         development projects**
 
-Happy coding!
+🤔 I'm looking for help with **API development**
+
+💬 Ask me about **React, python, javascript and DSA**
+
+📫 How to reach me wadhai.sahil101@gmail.com
+
+
+😄 Pronouns "He" , "Him"
+
+⚡️ Fun fact **"I am full time learner"**
+
+
+## 🔗 Connect with me :
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+
+
+
+
+
+
+## 🛠 Skills
+
+
+![img](https://github-readme-stats.vercel.app/api/top-langs?username=sahil-wadhai&show_icons=true&locale=en&layout=compact)
+
+![img](https://github-readme-stats.vercel.app/api?username=sahil-wadhai&show_icons=true&locale=en)
+
+![Logo](https://github-readme-streak-stats.herokuapp.com/?user=sahil-wadhai&)
