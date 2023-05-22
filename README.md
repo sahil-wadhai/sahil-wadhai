@@ -13,12 +13,11 @@ I am a third year B.tech student at GHRCE Nagpur , India. \
 Apart from that I am a full-stack developer
 who loves reading articles (on software development,  Productivity and practices) and contributing to open source.
 
-##
 👩‍💻 I'm currently working on *[BlogVilla](https://github.com/sahil-wadhai/BlogVilla/)*
 
 🧠 I'm currently learning **FastApi**
 
-👯‍♀️ I'm looking to collaborate on **Web         development projects**
+👯‍♀️ I'm looking to collaborate on **Web development projects**
 
 🤔 I'm looking for help with **API development**
 
@@ -26,17 +25,15 @@ who loves reading articles (on software development,  Productivity and practices
 
 📫 How to reach me wadhai.sahil101@gmail.com
 
-
 😄 Pronouns "He" , "Him"
 
 ⚡️ Fun fact **"I am full time learner"**
 
+
 ## 🔗 Connect with me :
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-
-
-
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://katherineoelsner.com/)
 
 
 
