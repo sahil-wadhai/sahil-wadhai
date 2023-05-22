@@ -18,7 +18,7 @@ who loves reading articles (on software development,  Productivity and practices
 
 🧠 I'm currently learning **FastApi**
 
-👯‍♀️ I'm looking to collaborate on **Web         development projects**
+👯‍♀️ I'm looking to collaborate on **Web development projects**
 
 🤔 I'm looking for help with **API development**
 
@@ -34,8 +34,6 @@ who loves reading articles (on software development,  Productivity and practices
 
 ## 🔗 Connect with me :
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-
-
 
 
 
