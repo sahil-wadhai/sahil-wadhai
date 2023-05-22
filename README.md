@@ -42,8 +42,7 @@ who loves reading articles (on software development,  Productivity and practices
 
 ### DSA :
 
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Java_Collections](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend :
 
