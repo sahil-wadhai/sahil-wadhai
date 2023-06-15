@@ -7,6 +7,7 @@
 I'm a student with a passion for software development. \
 I'm always looking for new ways to learn and grow, and I'm excited to share my work with the world.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahil-wadhai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
 I am a third year B.tech student at GHRCE Nagpur , India. \
