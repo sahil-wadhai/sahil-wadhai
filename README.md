@@ -10,7 +10,7 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my w
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahil-wadhai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
-I am a third year B.tech student at GHRCE Nagpur , India. \
+I am a final year B.tech student at GHRCE Nagpur , India. \
 Apart from that I am a full-stack developer
 who loves reading articles (on software development,  Productivity and practices) and contributing to open source.
 
@@ -23,7 +23,7 @@ who loves reading articles (on software development,  Productivity and practices
 
 🤔 I'm looking for help with **API development**
 
-💬 Ask me about **React, python, javascript and DSA**
+💬 Ask me about *python, nextjs and DSA**
 
 📫 How to reach me wadhai.sahil101@gmail.com
 
