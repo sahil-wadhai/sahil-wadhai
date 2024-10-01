@@ -15,15 +15,15 @@ Apart from that I am a full-stack developer
 who loves reading articles (on software development,  Productivity and practices) and contributing to open source.
 
 ##
-👩‍💻 I'm currently working on *[BlogVilla](https://github.com/sahil-wadhai/BlogVilla/)*
+👩‍💻 I'm currently working on *[SpringBoot restapi Project]()*
 
-🧠 I'm currently learning **FastApi**
+🧠 I'm currently learning **SpringBoot**
 
 👯‍♀️ I'm looking to collaborate on **Web development projects**
 
-🤔 I'm looking for help with **API development**
+🤔 I'm looking for help with **-**
 
-💬 Ask me about *python, nextjs and DSA**
+💬 Ask me about *java, web and DSA**
 
 📫 How to reach me wadhai.sahil101@gmail.com
 
