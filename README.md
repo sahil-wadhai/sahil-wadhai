@@ -10,7 +10,7 @@ I'm always looking for new ways to learn and grow, and I'm excited to share my w
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahil-wadhai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
-Software Engineer currently working in TCS (Got an opportunity to work on BSE trading system) , India. \
+Software Engineer currently working in TCS (**Got an opportunity to work on BSE trading system**) , India. \
 Apart from that i love to read articles (on software development,  Productivity and practices) and contributing to open source.
 
 ##
