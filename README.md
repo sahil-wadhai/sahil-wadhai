@@ -4,20 +4,19 @@
 
 ![Header](https://komarev.com/ghpvc/?username=sahil-wadhai&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a student with a passion for software development. \
+I'm a Software Engineer with a passion for designing and building high-impact systems, \
 I'm always looking for new ways to learn and grow, and I'm excited to share my work with the world.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sahil-wadhai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
-I am a final year B.tech student at GHRCE Nagpur , India. \
-Apart from that I am a full-stack developer
-who loves reading articles (on software development,  Productivity and practices) and contributing to open source.
+Software Engineer currently working in TCS (Got an opportunity to work on bse trading system) , India. \
+Apart from that i love to read articles (on software development,  Productivity and practices) and contributing to open source.
 
 ##
 👩‍💻 I'm currently working on *[SpringBoot restapi Project]()*
 
-🧠 I'm currently learning **SpringBoot**
+🧠 I'm currently learning tools and practices like **CI/CD, containerization, and AWS cloud platforms **
 
 👯‍♀️ I'm looking to collaborate on **Web development projects**
 
