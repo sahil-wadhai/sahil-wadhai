@@ -16,7 +16,7 @@ Apart from that i love to read articles (on software development,  Productivity 
 ##
 👩‍💻 I'm currently working on *[SpringBoot restapi Project]()*
 
-🧠 I'm currently learning tools and practices like **CI/CD, containerization, and AWS cloud platforms **
+🧠 I'm currently learning tools and practices like **CI/CD, containerization, and AWS cloud services**
 
 👯‍♀️ I'm looking to collaborate on **Web development projects**
 
